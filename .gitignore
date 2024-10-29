@@ -26,6 +26,7 @@
 
 /uploads
 /upgrade
+/plugins/debug-bar
 
 /plugins/hello.php
 
